@@ -1,10 +1,10 @@
-title: Business Frontpage
-description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
+title: Logos Profiling & Communication
+description: Transformăm provocările în oportunități prin soluții inovatoare și strategii inteligente! De la Inteligență Artificială revoluționară, optimizare financiară de top, pana la campanii de comunicare care fac diferența, noi te catapultăm în viitor. Hai să construim împreună un avantaj competitiv durabil! Fii curios. Fii inovator. Fii lider. Contactează-ne acum!.
 
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#3D3B48" # the scheme can be any HEX code like "#00aa55"
 
 sass:
   sass_dir: /assets/css/_sass
